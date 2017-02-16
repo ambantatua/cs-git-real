@@ -1,6 +1,8 @@
 # Project Title
 
-Code school GIT Real tutorials
+Code school GIT Real tutorials.
+
+Level two edit
 
 ## Getting Started
 
